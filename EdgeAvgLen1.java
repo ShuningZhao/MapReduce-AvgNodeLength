@@ -1,10 +1,12 @@
 /**************************************************
-* COMP9313 Project 1
-* Shuning Zhao z3332916
-* EdgeAvgLen1
+* EdgeAvgLen1 
+* Given a directed graph, compute the average length 
+* of the in-coming edges for each node with combiner class
+* By Shuning Zhao
+* 2018-04-16
 **************************************************/
 
-package comp9313.ass1;
+package mapreduceprojects.avglen;
 
 import java.io.DataInput;
 import java.io.DataOutput;
